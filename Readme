@@ -1,3 +1,4 @@
+git clone https://github.com/dennisec/.git-exposure-scaner.git
 python3 gitscaner.py 
 
 
