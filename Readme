@@ -1,1 +1,10 @@
-python3 gitscaner.py
+python3 gitscaner.py 
+
+
+jika vuln 
+https://github.com/arthaud/git-dumper (ekse  di sini) 
+git clone https://github.com/arthaud/git-dumper 
+cd git-dumper 
+lalu jalanin script 
+
+
